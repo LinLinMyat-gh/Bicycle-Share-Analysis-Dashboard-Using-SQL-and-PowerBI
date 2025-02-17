@@ -1,6 +1,6 @@
 # Bicycle Share Dashboard Overview
 
-This project analyzes data from a **Bicycle Share Program** to derive insights into ridership trends, revenue generation, and seasonal impacts. By leveraging SQL to join datasets and Power BI for visualization, we aim to uncover key patterns in user behavior, revenue performance, and operational efficiency.
+This project analyzes data from a **Bicycle Share Company** to derive insights into ridership trends, revenue generation, and seasonal impacts. By leveraging SQL to join datasets and Power BI for visualization, we aim to uncover key patterns in user behavior, revenue performance, and operational efficiency.
 
 ## Objectives
 
