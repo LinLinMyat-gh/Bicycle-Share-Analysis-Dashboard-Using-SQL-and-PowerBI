@@ -84,26 +84,3 @@ This dashboard integrates ridership and revenue data to provide actionable insig
 
   ![Screenshot 2025-02-18 020822](https://github.com/user-attachments/assets/29e25867-6c45-4263-9652-32238196221d)
 
-
- **Recommendations & Strategic Focus**
- **1. Optimize Seasonal Pricing**
-- Implement dynamic pricing to maximize revenue during high-demand periods.
-- Offer discounts during off-peak hours to increase ridership.
-
- **2. Improve Cost Efficiency**
-- Identify operational inefficiencies and optimize resource allocation.
-- Adjust maintenance schedules to match high-usage trends.
-
- **3. Increase Customer Engagement**
-- Introduce loyalty programs for frequent riders.
-- Promote casual-to-registered conversion with targeted marketing.
-
- **4. Expand High-Demand Services**
-- Use ride data to expand bike stations in under-served but high-traffic areas.
-- Improve bike availability forecasting for better service reliability.
-
- **5. Data-Driven Decision Making**
-- Regularly track revenue, ridership trends, and costs.
-- Use predictive analytics to anticipate demand shifts and adjust operations proactively.
-
-
